@@ -1,0 +1,84 @@
+2018-03-29 01:03:29,576 DEBUG <open file '<stdout>', mode 'w' at 0x0536D078>
+2018-03-29 01:07:47,299 DEBUG <open file '<stdout>', mode 'w' at 0x04A2D078>
+2018-03-29 01:08:30,003 DEBUG <open file '<stdout>', mode 'w' at 0x04D5D078>
+2018-03-29 01:21:00,509 DEBUG <open file '<stdout>', mode 'w' at 0x04F9D078>
+2018-03-29 01:27:06,997 DEBUG <open file '<stdout>', mode 'w' at 0x04E2D078>
+2018-03-29 01:28:53,111 DEBUG <open file '<stdout>', mode 'w' at 0x053FD078>
+2018-03-29 01:37:41,460 DEBUG <open file '<stdout>', mode 'w' at 0x0571D078>
+2018-03-29 03:16:58,394 DEBUG <open file '<stdout>', mode 'w' at 0x04E4D078>
+2018-03-29 03:18:30,634 DEBUG <open file '<stdout>', mode 'w' at 0x045ED078>
+2018-03-29 03:19:20,421 DEBUG <open file '<stdout>', mode 'w' at 0x04DED078>
+2018-03-29 03:20:21,357 DEBUG <open file '<stdout>', mode 'w' at 0x0557D078>
+2018-03-29 03:22:18,599 DEBUG <open file '<stdout>', mode 'w' at 0x0575D078>
+2018-03-29 10:37:51,209 DEBUG <open file '<stdout>', mode 'w' at 0x0493D078>
+2018-03-29 10:59:55,338 DEBUG <open file '<stdout>', mode 'w' at 0x0565D078>
+2018-04-12 18:48:26,592 DEBUG <open file '<stdout>', mode 'w' at 0x02C8D078>
+2018-04-12 19:14:45,335 DEBUG <open file '<stdout>', mode 'w' at 0x02C1D078>
+2018-04-12 19:19:49,463 DEBUG <open file '<stdout>', mode 'w' at 0x02A3D078>
+2018-04-12 19:22:11,075 DEBUG <open file '<stdout>', mode 'w' at 0x0232D078>
+2018-04-12 19:41:45,316 DEBUG <open file '<stdout>', mode 'w' at 0x009AD078>
+2018-04-12 19:51:16,388 DEBUG <open file '<stdout>', mode 'w' at 0x02AAD078>
+2018-04-12 19:52:29,226 DEBUG <open file '<stdout>', mode 'w' at 0x0265D078>
+2018-04-12 19:54:00,599 DEBUG <open file '<stdout>', mode 'w' at 0x0236D078>
+2018-04-12 19:56:03,908 DEBUG <open file '<stdout>', mode 'w' at 0x00E1D078>
+2018-04-12 20:46:02,559 DEBUG <open file '<stdout>', mode 'w' at 0x02C6D078>
+2018-04-12 20:47:23,744 DEBUG <open file '<stdout>', mode 'w' at 0x01F5D078>
+2018-04-12 20:50:11,869 DEBUG <open file '<stdout>', mode 'w' at 0x0216D078>
+2018-04-12 20:55:16,730 DEBUG <open file '<stdout>', mode 'w' at 0x0292D078>
+2018-04-12 21:00:23,158 DEBUG <open file '<stdout>', mode 'w' at 0x02B5D078>
+2018-04-12 21:04:38,690 DEBUG <open file '<stdout>', mode 'w' at 0x0264D078>
+2018-04-12 21:09:15,703 DEBUG <open file '<stdout>', mode 'w' at 0x0265D078>
+2018-04-12 21:14:22,957 DEBUG <open file '<stdout>', mode 'w' at 0x0295D078>
+2018-04-12 21:16:23,660 DEBUG <open file '<stdout>', mode 'w' at 0x02EDD078>
+2018-04-12 21:23:47,855 DEBUG <open file '<stdout>', mode 'w' at 0x0267D078>
+2018-04-13 01:40:49,595 DEBUG <open file '<stdout>', mode 'w' at 0x0539D078>
+2018-04-13 01:43:12,296 DEBUG <open file '<stdout>', mode 'w' at 0x0525D078>
+2018-04-13 01:44:02,457 DEBUG <open file '<stdout>', mode 'w' at 0x0522D078>
+2018-04-13 01:44:54,776 DEBUG <open file '<stdout>', mode 'w' at 0x0556D078>
+2018-04-13 01:46:30,950 DEBUG <open file '<stdout>', mode 'w' at 0x04ADD078>
+2018-04-13 01:50:08,171 DEBUG <open file '<stdout>', mode 'w' at 0x0556D078>
+2018-04-13 01:54:41,664 DEBUG <open file '<stdout>', mode 'w' at 0x048CD078>
+2018-04-13 01:57:26,007 DEBUG <open file '<stdout>', mode 'w' at 0x0574D078>
+2018-04-13 01:57:49,275 DEBUG <open file '<stdout>', mode 'w' at 0x0505D078>
+2018-04-13 02:25:10,187 DEBUG <open file '<stdout>', mode 'w' at 0x0553D078>
+2018-04-13 02:27:18,542 DEBUG <open file '<stdout>', mode 'w' at 0x02DFD078>
+2018-04-13 02:31:21,828 DEBUG <open file '<stdout>', mode 'w' at 0x050BD078>
+2018-04-13 02:37:51,970 DEBUG <open file '<stdout>', mode 'w' at 0x046CD078>
+2018-04-13 02:38:38,344 DEBUG <open file '<stdout>', mode 'w' at 0x051AD078>
+2018-04-26 11:12:14,073 DEBUG <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+2018-04-26 11:16:14,678 DEBUG <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+2018-04-26 11:21:47,876 DEBUG <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+2018-04-26 11:23:28,489 DEBUG <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+2018-04-26 11:24:36,939 DEBUG <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+2018-04-26 11:26:34,920 DEBUG <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+2018-04-26 11:36:37,189 DEBUG <_io.TextIOWrapper name='<stdout>' mode='w' encoding='cp1252'>
+2018-04-26 11:38:08,686 DEBUG <_io.TextIOWrapper name='<stdout>' mode='w' encoding='cp1252'>
+2018-04-26 11:58:56,873 DEBUG <_io.TextIOWrapper name='<stdout>' mode='w' encoding='cp1252'>
+2018-04-26 12:14:58,243 DEBUG <_io.TextIOWrapper name='<stdout>' mode='w' encoding='cp1252'>
+2018-04-26 12:30:01,483 DEBUG <_io.TextIOWrapper name='<stdout>' mode='w' encoding='cp1252'>
+2018-04-26 13:30:01,466 DEBUG <_io.TextIOWrapper name='<stdout>' mode='w' encoding='cp1252'>
+2018-04-26 13:38:48,382 DEBUG <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+2018-04-26 14:25:08,565 DEBUG <_io.TextIOWrapper name='<stdout>' mode='w' encoding='cp1252'>
+2018-04-26 14:30:01,564 DEBUG <_io.TextIOWrapper name='<stdout>' mode='w' encoding='cp1252'>
+2018-04-26 14:46:08,223 DEBUG <_io.TextIOWrapper name='<stdout>' mode='w' encoding='cp1252'>
+2018-04-26 15:30:01,378 DEBUG <_io.TextIOWrapper name='<stdout>' mode='w' encoding='cp1252'>
+2018-04-26 15:30:31,957 DEBUG <_io.TextIOWrapper name='<stdout>' mode='w' encoding='cp1252'>
+2018-04-26 16:15:39,410 DEBUG <_io.TextIOWrapper name='<stdout>' mode='w' encoding='cp1252'>
+2018-04-26 16:30:01,385 DEBUG <_io.TextIOWrapper name='<stdout>' mode='w' encoding='cp1252'>
+2018-04-26 17:13:30,845 DEBUG <_io.TextIOWrapper name='<stdout>' mode='w' encoding='cp1252'>
+2018-04-26 17:30:01,377 DEBUG <_io.TextIOWrapper name='<stdout>' mode='w' encoding='cp1252'>
+2018-04-26 17:34:09,654 DEBUG <_io.TextIOWrapper name='<stdout>' mode='w' encoding='cp1252'>
+2018-04-26 17:42:34,337 DEBUG <_io.TextIOWrapper name='<stdout>' mode='w' encoding='cp1252'>
+2018-04-26 17:45:51,212 DEBUG <_io.TextIOWrapper name='<stdout>' mode='w' encoding='cp1252'>
+2018-04-26 18:24:12,833 DEBUG <_io.TextIOWrapper name='<stdout>' mode='w' encoding='cp1252'>
+2018-04-26 18:26:50,901 DEBUG <_io.TextIOWrapper name='<stdout>' mode='w' encoding='cp1252'>
+2018-04-26 18:30:01,385 DEBUG <_io.TextIOWrapper name='<stdout>' mode='w' encoding='cp1252'>
+2018-04-26 18:37:50,662 DEBUG <_io.TextIOWrapper name='<stdout>' mode='w' encoding='cp1252'>
+2018-04-26 18:44:24,422 DEBUG <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+2018-04-26 18:45:12,180 DEBUG <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+2018-04-26 18:47:06,910 DEBUG <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+2018-04-26 18:48:47,971 DEBUG <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+2018-04-26 18:50:04,398 DEBUG <_io.TextIOWrapper name='<stdout>' mode='w' encoding='cp1252'>
+2018-04-26 18:51:52,672 DEBUG <_io.TextIOWrapper name='<stdout>' mode='w' encoding='cp1252'>
+2018-04-26 18:53:18,707 DEBUG <_io.TextIOWrapper name='<stdout>' mode='w' encoding='cp1252'>
+2018-04-26 23:30:01,693 DEBUG <_io.TextIOWrapper name='<stdout>' mode='w' encoding='cp1252'>
