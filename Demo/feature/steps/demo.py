@@ -10,7 +10,7 @@ def step_impl(context):
 
 @When("Eligibility Page")
 def step_impl(context):
-    context.browser.find_element_by_xpath("//INPUT[@id='student_eligibility_test_requested_amoun']").send_keys('25000')
+    context.browser.find_element_by_xpath("//INPUT[@id='student_eligibility_test_requested_amount']").send_keys('25000')
     """"
     context.browser.find_element_by_xpath("//INPUT[@id='student_eligibility_test_requested_amount']").send_keys("25000")
     context.browser.find_element_by_xpath("//LABEL[@class='collection_radio_buttons'][text()='Graduate']").click()
