@@ -12,7 +12,7 @@ def step_impl(context):
 def step_impl(context):
     context.browser.find_element_by_xpath("//INPUT[@id='student_eligibility_test_requested_amount']").send_keys('25000')
     context.browser.find_element_by_xpath("//LABEL[@class='collection_radio_buttons'][text()='Graduate']").click()
-	"""
+    """
     context.browser.find_element_by_xpath("//INPUT[@id='student_eligibility_test_requested_amount']").send_keys("25000")
     context.browser.find_element_by_xpath("//LABEL[@class='collection_radio_buttons'][text()='Graduate']").click()
     context.browser.find_element_by_xpath("//SPAN[@class='filter-option pull-left'][text()='Select a School']").click()
@@ -33,7 +33,7 @@ def step_impl(context):
     context.browser.find_element_by_xpath("//LABEL[@class='collection_radio_buttons'][text()='Apply without a Cosigner']").click()
     context.browser.find_element_by_xpath("//INPUT[@id='student_eligibility_test_email']").send_keys("test0329_1@lendkey.com")
     context.browser.find_element_by_xpath("//INPUT[@id='eligibility_test_submit']").click()
-"""
+    """
     time.sleep(5)
 
 @Then("Application Page")
