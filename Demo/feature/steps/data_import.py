@@ -1,6 +1,6 @@
 from openpyxl import *
 
-book = load_workbook ( 'D:/Demo/feature/Data/login.xlsx' )
+book = load_workbook ( '../feature/Data/login.xlsx' )
 
 ws = book.get_active_sheet ( )
 rowcount = 2
