@@ -13,6 +13,8 @@ def step_impl(context):
     context.browser.find_element_by_xpath("//INPUT[@id='student_eligibility_test_requested_amount']").send_keys('25000')
     context.browser.find_element_by_xpath("//LABEL[@class='collection_radio_buttons'][text()='Graduate']").click()
     context.browser.find_element_by_xpath("//SPAN[@class='filter-option pull-left'][text()='Select a School']").click()
+	time.sleep(3)
+    context.browser.find_element_by_xpath("//SPAN[@class='text'][text()='Adelphi University']").click()
     """
     context.browser.find_element_by_xpath("//INPUT[@id='student_eligibility_test_requested_amount']").send_keys("25000")
     context.browser.find_element_by_xpath("//LABEL[@class='collection_radio_buttons'][text()='Graduate']").click()
