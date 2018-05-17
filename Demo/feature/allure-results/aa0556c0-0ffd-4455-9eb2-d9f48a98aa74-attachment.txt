@@ -1,0 +1,4 @@
+  Scenario: Application
+    Given open the loan from Daphne
+    When Application Page
+    Then Thanks

@@ -1,12 +1,14 @@
 from behave import *
 import time
 from selenium.webdriver.common.keys import Keys
-
+import sys
+sys.path.append('../feature/lib')
+from url import *
 
 
 @Given("PSL Network Cuscholar")
 def step_impl(context):
-    context.browser.get( "http://cuscholar15i.lkqa02.com/loans/new")
+    context.browser.get(PSL_network )
 
 @When("Eligibility Page")
 def step_impl(context):

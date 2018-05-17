@@ -1,0 +1,11 @@
+User is on change payment option
+User Select Checking Account
+User select Pay By Check
+User select Minimum monthly balance
+User adds minimum amount
+User accept ACH authorization
+Payment method updated successfully
+User enter's $0 as amount
+User Add new Account
+Account Added Successfully
+User should prompt message for valid amount
